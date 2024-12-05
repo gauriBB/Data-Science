@@ -1,2 +1,2 @@
-# Data-Scinece
+# Data-Science
 Data Science Learnings
